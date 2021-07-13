@@ -1,0 +1,15 @@
+[
+  {
+    "inputs": [],
+    "name": "greet",
+    "outputs": [
+      {
+        "internalType": "string",
+        "name": "greeting",
+        "type": "string"
+      }
+    ],
+    "stateMutability": "pure",
+    "type": "function"
+  }
+]
